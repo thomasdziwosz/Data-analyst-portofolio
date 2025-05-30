@@ -18,14 +18,14 @@ Bienvenue sur mon portfolio de projets en data analyse. Tous les projets ici ont
 ### 🔹 [Analyse des visites site web - Power BI](https://github.com/thomasdziwosz/Projet-kiloutou) 
 **Outils :** Power BI, Python (pandas)
 **Objectif :** Analyse du flux de visiteurs sur le site web pendant 24h.
-![dashboard](https://github.com/thomasdziwosz/Projet-kiloutou/blob/main/screenshot_dashboard_kiloutou.png)
+(https://github.com/thomasdziwosz/Projet-kiloutou/blob/main/screenshot_dashboard_kiloutou.png)
 
 ---
 
 ### 🔹 [Analyse population hospitalière Bourgogne Franche Comté - 2015-2022](https://github.com/thomasdziwosz/Analyse-population-hospitali-re---Bourgogne-Franche-Comt---2015-2022)
 **Outils :** Python, Pandas, scikit-learn  
 **Objectif :** Prévoir les loyers à Paris en fonction de la surface, du quartier, etc.  
-![loyers](https://github.com/toncompte/prediction-loyers/blob/main/outputs/graph1.png)
+(https://github.com/thomasdziwosz/Analyse-population-hospitali-re---Bourgogne-Franche-Comt---2015-2022/blob/main/screenshot_dashboard_analyse_population_hopistaliere_bourgogne.png)
 
 ---
 

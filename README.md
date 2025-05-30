@@ -22,7 +22,7 @@ Bienvenue sur mon portfolio de projets en data analyse. Tous les projets ici ont
 
 ---
 
-### 🔹 [Prédiction des loyers à Paris - Python](https://github.com/toncompte/prediction-loyers)
+### 🔹 [Analyse population hospitalière Bourgogne Franche Comté - 2015-2022](https://github.com/thomasdziwosz/Analyse-population-hospitali-re---Bourgogne-Franche-Comt---2015-2022)
 **Outils :** Python, Pandas, scikit-learn  
 **Objectif :** Prévoir les loyers à Paris en fonction de la surface, du quartier, etc.  
 ![loyers](https://github.com/toncompte/prediction-loyers/blob/main/outputs/graph1.png)

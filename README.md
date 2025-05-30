@@ -15,7 +15,7 @@ Bienvenue sur mon portfolio de projets en data analyse. Tous les projets ici ont
 
 ## 🚀 Projets
 
-### 🔹 [Analyse des visites site web - Power BI](https://github.com/thomasdziwosz/Projet-kiloutou)
+### 🔹 [Analyse des visites site web - Power BI](https://github.com/thomasdziwosz/Projet-kiloutou) 
 **Outils :** Power BI, Python (pandas)
 **Objectif :** Analyse du flux de visiteurs sur le site web pendant 24h.
 ![dashboard](https://github.com/thomasdziwosz/Projet-kiloutou/blob/main/screenshot_dashboard_kiloutou.png)
